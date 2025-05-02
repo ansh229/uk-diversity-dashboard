@@ -1,5 +1,5 @@
-TC1 | 02-May-2025 | [Your Name] | Data loaded and cleaned | Pass
-TC2 | 02-May-2025 | [Your Name] | Region filter worked | Pass
-TC3 | 02-May-2025 | [Your Name] | Chart data grouped successfully | Pass
-TC4 | 02-May-2025 | [Your Name] | CSV file exported | Pass
-TC5 | 02-May-2025 | [Your Name] | Data previewed | Pass
+TC1 | 02-May-2025 | anshrai | Data loaded and cleaned | Pass
+TC2 | 02-May-2025 | anshrai | Region filter worked | Pass
+TC3 | 02-May-2025 | anshrai | Chart data grouped successfully | Pass
+TC4 | 02-May-2025 | anshrai | CSV file exported | Pass
+TC5 | 02-May-2025 | anshrai | Data previewed | Pass
