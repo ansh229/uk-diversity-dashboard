@@ -81,7 +81,7 @@ def write_log(entry):
 # Main runner
 
 def run_all_tests():
-    tester = "[Your Name]"
+    tester = "anshrai"
     today = datetime.today().strftime('%d-%b-%Y')
     
     df, status1, notes1 = test_TC1_load_data()
